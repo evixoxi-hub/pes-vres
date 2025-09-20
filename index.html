@@ -1,0 +1,65 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pes Vres — English Edition (No Greece)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Pes Vres — English Edition</h1>
+      <p class="subtitle">Same mechanics. English content. No Greece topics.</p>
+    </header>
+
+    <section class="setup">
+      <label>Number of teams: 
+        <select id="teamCount"><option>2</option><option>3</option><option>4</option></select>
+      </label>
+      <label>Target score: <input id="targetScore" type="number" value="30" min="1" /></label>
+      <label>Round time (seconds): <input id="roundTime" type="number" value="60" min="10" /></label>
+      <button id="startGame">Start Game</button>
+    </section>
+
+    <section class="game" hidden>
+      <div class="topbar">
+        <div id="teamScores" class="scores"></div>
+        <div class="controls">
+          <button id="nextCard">New Card</button>
+          <button id="revealAll">Reveal All</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="category" id="category">Category</div>
+        <div class="answers" id="answers"></div>
+      </div>
+
+      <div class="timerPanel">
+        <div class="timer" id="timer">60</div>
+        <div class="timerControls">
+          <button id="startRound">Start Round</button>
+          <button id="stopRound">Stop</button>
+        </div>
+      </div>
+
+      <div class="roundActions">
+        <label>Active team: <select id="activeTeam"></select></label>
+        <label>Points for this turn: <input id="turnPoints" type="number" value="0" min="0" /></label>
+        <button id="applyPoints">Apply Points</button>
+        <button id="steal">Steal (reveal remaining)</button>
+      </div>
+
+      <div id="log" class="log"></div>
+    </section>
+
+    <footer>
+      <small>Export / Import cards available in the ZIP.<br/>This is a local offline web app — no server required.</small>
+    </footer>
+  </div>
+
+<script src="app.js"></script>
+</body>
+</html>

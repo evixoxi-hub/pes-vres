@@ -1,0 +1,25 @@
+
+*{box-sizing:border-box;font-family:Arial,Helvetica,sans-serif}
+body{background:#f6f8fb;color:#111;margin:0;padding:20px;display:flex;align-items:center;justify-content:center;min-height:100vh}
+.app{width:100%;max-width:980px;background:#fff;padding:20px;border-radius:10px;box-shadow:0 6px 24px rgba(0,0,0,.08)}
+header h1{margin:0;font-size:1.6rem}
+.subtitle{color:#666;margin-top:6px}
+.setup{display:flex;gap:12px;align-items:center;margin:14px 0}
+.setup label{font-size:0.95rem}
+.setup input, .setup select{margin-left:6px;padding:6px;border-radius:6px;border:1px solid #ddd}
+button{padding:8px 12px;border-radius:8px;border:0;background:#2b7cff;color:#fff;cursor:pointer}
+button:hover{opacity:.95}
+.game .topbar{display:flex;justify-content:space-between;align-items:center;margin-top:12px}
+.scores{display:flex;gap:8px;align-items:center}
+.scoreCard{background:#f3f7ff;padding:8px 12px;border-radius:8px;border:1px solid #e1e8ff;min-width:80px;text-align:center}
+.card{margin-top:12px;padding:14px;border-radius:8px;border:1px solid #eee;background:#fafcff}
+.category{font-weight:700;margin-bottom:8px}
+.answers{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.answer{padding:10px;border-radius:8px;border:1px solid #eee;background:#fff;cursor:pointer}
+.answer.revealed{background:#e6fff4;border-color:#bfeed2}
+.timerPanel{display:flex;align-items:center;gap:12px;margin-top:12px}
+.timer{font-size:1.8rem;font-weight:700;padding:10px 16px;border-radius:8px;background:#111;color:#fff;min-width:80px;text-align:center}
+.timerControls button{background:#22c55e}
+.roundActions{display:flex;gap:8px;align-items:center;margin-top:10px}
+.log{margin-top:12px;padding:8px;border-radius:8px;background:#f9fafb;border:1px dashed #eee;min-height:40px}
+footer{margin-top:10px;color:#666;font-size:0.85rem}

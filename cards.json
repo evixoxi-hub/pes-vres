@@ -1,0 +1,902 @@
+[
+  {
+    "category": "Movie Genres",
+    "answers": [
+      "Documentary",
+      "Comedy",
+      "Drama",
+      "Action",
+      "Animation",
+      "Thriller",
+      "Musical",
+      "Romance",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "category": "Movie Genres",
+    "answers": [
+      "Comedy",
+      "Horror",
+      "Romance",
+      "Thriller",
+      "Action",
+      "Sci-Fi",
+      "Documentary",
+      "Drama",
+      "Musical",
+      "Animation"
+    ]
+  },
+  {
+    "category": "Animals",
+    "answers": [
+      "Giraffe",
+      "Kangaroo",
+      "Dolphin",
+      "Dog",
+      "Lion",
+      "Zebra",
+      "Panda",
+      "Tiger",
+      "Elephant",
+      "Cat"
+    ]
+  },
+  {
+    "category": "Fast Food Chains",
+    "answers": [
+      "McDonald's",
+      "Burger King",
+      "KFC",
+      "Subway",
+      "Pizza Hut",
+      "Taco Bell",
+      "Domino's",
+      "Wendy's",
+      "Chick-fil-A",
+      "Five Guys"
+    ]
+  },
+  {
+    "category": "Famous Painters",
+    "answers": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Rembrandt",
+      "Michelangelo",
+      "Salvador Dalí",
+      "Jackson Pollock",
+      "Frida Kahlo",
+      "Georgia O'Keeffe"
+    ]
+  },
+  {
+    "category": "Movie Genres",
+    "answers": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Animation",
+      "Action",
+      "Thriller",
+      "Musical",
+      "Documentary",
+      "Horror",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "category": "Famous Painters",
+    "answers": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Georgia O'Keeffe",
+      "Salvador Dalí",
+      "Jackson Pollock",
+      "Claude Monet",
+      "Frida Kahlo",
+      "Rembrandt",
+      "Michelangelo"
+    ]
+  },
+  {
+    "category": "Board Games",
+    "answers": [
+      "Monopoly",
+      "Scrabble",
+      "Chess",
+      "Catan",
+      "Risk",
+      "Clue/Cluedo",
+      "Ticket to Ride",
+      "Carcassonne",
+      "Pandemic",
+      "Checkers"
+    ]
+  },
+  {
+    "category": "Famous TV Shows",
+    "answers": [
+      "Westworld",
+      "The Crown",
+      "The Office",
+      "Game of Thrones",
+      "The Simpsons",
+      "Seinfeld",
+      "Stranger Things",
+      "Breaking Bad",
+      "Friends",
+      "Sherlock"
+    ]
+  },
+  {
+    "category": "Elements (Periodic Table) - Common",
+    "answers": [
+      "Hydrogen",
+      "Helium",
+      "Carbon",
+      "Nitrogen",
+      "Oxygen",
+      "Iron",
+      "Gold",
+      "Silver",
+      "Calcium",
+      "Uranium"
+    ]
+  },
+  {
+    "category": "Popular Sports",
+    "answers": [
+      "Soccer",
+      "Basketball",
+      "Tennis",
+      "Baseball",
+      "Cricket",
+      "Rugby",
+      "Golf",
+      "Formula 1",
+      "Hockey",
+      "Volleyball"
+    ]
+  },
+  {
+    "category": "Programming Paradigms",
+    "answers": [
+      "Object-oriented",
+      "Functional",
+      "Procedural",
+      "Event-driven",
+      "Declarative",
+      "Concurrent",
+      "Imperative",
+      "Logic",
+      "Aspect-oriented",
+      "Reactive"
+    ]
+  },
+  {
+    "category": "Programming Frameworks/Libraries",
+    "answers": [
+      "Vue",
+      "TensorFlow",
+      "PyTorch",
+      "Ruby on Rails",
+      "Angular",
+      "Spring",
+      "Laravel",
+      "React",
+      "Flask",
+      "Django"
+    ]
+  },
+  {
+    "category": "Famous Painters",
+    "answers": [
+      "Jackson Pollock",
+      "Claude Monet",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Frida Kahlo",
+      "Georgia O'Keeffe",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Rembrandt"
+    ]
+  },
+  {
+    "category": "Colors",
+    "answers": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow",
+      "Purple",
+      "Orange",
+      "Pink",
+      "Brown",
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "category": "Vegetables",
+    "answers": [
+      "Carrot",
+      "Potato",
+      "Tomato",
+      "Onion",
+      "Cucumber",
+      "Lettuce",
+      "Spinach",
+      "Broccoli",
+      "Pepper",
+      "Eggplant"
+    ]
+  },
+  {
+    "category": "Vegetables",
+    "answers": [
+      "Pepper",
+      "Eggplant",
+      "Cucumber",
+      "Broccoli",
+      "Potato",
+      "Spinach",
+      "Tomato",
+      "Carrot",
+      "Lettuce",
+      "Onion"
+    ]
+  },
+  {
+    "category": "Animals",
+    "answers": [
+      "Cat",
+      "Dog",
+      "Elephant",
+      "Tiger",
+      "Lion",
+      "Giraffe",
+      "Kangaroo",
+      "Panda",
+      "Zebra",
+      "Dolphin"
+    ]
+  },
+  {
+    "category": "Famous Bands",
+    "answers": [
+      "The Beatles",
+      "Rolling Stones",
+      "Queen",
+      "U2",
+      "Led Zeppelin",
+      "Pink Floyd",
+      "Nirvana",
+      "Coldplay",
+      "The Who",
+      "Metallica"
+    ]
+  },
+  {
+    "category": "Famous Scientists",
+    "answers": [
+      "Michael Faraday",
+      "Nikola Tesla",
+      "Charles Darwin",
+      "Albert Einstein",
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Galileo Galilei",
+      "Louis Pasteur",
+      "Isaac Newton",
+      "Stephen Hawking"
+    ]
+  },
+  {
+    "category": "Computer Programming Languages",
+    "answers": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C",
+      "C++",
+      "C#",
+      "Ruby",
+      "Go",
+      "Swift",
+      "Rust"
+    ]
+  },
+  {
+    "category": "Popular Sports",
+    "answers": [
+      "Tennis",
+      "Basketball",
+      "Golf",
+      "Rugby",
+      "Hockey",
+      "Formula 1",
+      "Soccer",
+      "Baseball",
+      "Volleyball",
+      "Cricket"
+    ]
+  },
+  {
+    "category": "Planets & Space",
+    "answers": [
+      "Pluto",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Mercury",
+      "Venus",
+      "PlanetsItem2",
+      "Saturn",
+      "Sun",
+      "PlanetsItem1"
+    ]
+  },
+  {
+    "category": "Car Brands",
+    "answers": [
+      "Toyota",
+      "Ford",
+      "BMW",
+      "Mercedes-Benz",
+      "Honda",
+      "Volkswagen",
+      "Audi",
+      "Chevrolet",
+      "Nissan",
+      "Hyundai"
+    ]
+  },
+  {
+    "category": "U.S. Presidents (Historic)",
+    "answers": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "Theodore Roosevelt",
+      "Franklin D. Roosevelt",
+      "John F. Kennedy",
+      "Ronald Reagan",
+      "Barack Obama",
+      "Donald Trump",
+      "Joe Biden"
+    ]
+  },
+  {
+    "category": "Famous Mountains",
+    "answers": [
+      "Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Makalu",
+      "Denali",
+      "Matterhorn",
+      "Aconcagua",
+      "Mont Blanc",
+      "Fuji"
+    ]
+  },
+  {
+    "category": "Fruit",
+    "answers": [
+      "Apple",
+      "Peach",
+      "Pineapple",
+      "Grapes",
+      "Cherry",
+      "Mango",
+      "Kiwi",
+      "Orange",
+      "Strawberry",
+      "Banana"
+    ]
+  },
+  {
+    "category": "Programming Paradigms",
+    "answers": [
+      "Concurrent",
+      "Imperative",
+      "Event-driven",
+      "Reactive",
+      "Object-oriented",
+      "Procedural",
+      "Declarative",
+      "Logic",
+      "Functional",
+      "Aspect-oriented"
+    ]
+  },
+  {
+    "category": "Planets & Space",
+    "answers": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "PlanetsItem1",
+      "PlanetsItem2"
+    ]
+  },
+  {
+    "category": "Famous CEOs",
+    "answers": [
+      "Elon Musk",
+      "Tim Cook",
+      "Sundar Pichai",
+      "Satya Nadella",
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Warren Buffett",
+      "Larry Page",
+      "Sergey Brin",
+      "Reed Hastings"
+    ]
+  },
+  {
+    "category": "Elements (Periodic Table) - Common",
+    "answers": [
+      "Gold",
+      "Helium",
+      "Oxygen",
+      "Calcium",
+      "Hydrogen",
+      "Carbon",
+      "Iron",
+      "Silver",
+      "Nitrogen",
+      "Uranium"
+    ]
+  },
+  {
+    "category": "Famous TV Shows",
+    "answers": [
+      "Friends",
+      "Breaking Bad",
+      "Game of Thrones",
+      "The Office",
+      "Stranger Things",
+      "Seinfeld",
+      "The Simpsons",
+      "Westworld",
+      "The Crown",
+      "Sherlock"
+    ]
+  },
+  {
+    "category": "Capital Cities (World)",
+    "answers": [
+      "Tokyo",
+      "Washington D.C.",
+      "Ottawa",
+      "London",
+      "Paris",
+      "Berlin",
+      "Madrid",
+      "Rome",
+      "Canberra",
+      "CapitalItem1"
+    ]
+  },
+  {
+    "category": "Countries (World)",
+    "answers": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "France",
+      "Germany",
+      "Spain",
+      "Italy",
+      "Australia",
+      "Japan",
+      "Brazil"
+    ]
+  },
+  {
+    "category": "Languages",
+    "answers": [
+      "Arabic",
+      "Portuguese",
+      "Hindi",
+      "Japanese",
+      "French",
+      "Russian",
+      "Spanish",
+      "Chinese",
+      "German",
+      "English"
+    ]
+  },
+  {
+    "category": "Popular Sports",
+    "answers": [
+      "Golf",
+      "Formula 1",
+      "Basketball",
+      "Volleyball",
+      "Tennis",
+      "Cricket",
+      "Soccer",
+      "Rugby",
+      "Baseball",
+      "Hockey"
+    ]
+  },
+  {
+    "category": "Broadway Musicals",
+    "answers": [
+      "Hamilton",
+      "Les Misérables",
+      "The Phantom of the Opera",
+      "Wicked",
+      "The Lion King",
+      "Chicago",
+      "Cats",
+      "Rent",
+      "West Side Story",
+      "Mamma Mia!"
+    ]
+  },
+  {
+    "category": "Famous Painters",
+    "answers": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Jackson Pollock",
+      "Georgia O'Keeffe",
+      "Michelangelo",
+      "Rembrandt",
+      "Leonardo da Vinci",
+      "Frida Kahlo"
+    ]
+  },
+  {
+    "category": "Programming Frameworks/Libraries",
+    "answers": [
+      "React",
+      "Angular",
+      "Vue",
+      "Django",
+      "Flask",
+      "Spring",
+      "Ruby on Rails",
+      "Laravel",
+      "TensorFlow",
+      "PyTorch"
+    ]
+  },
+  {
+    "category": "Fruit",
+    "answers": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Grapes",
+      "Pineapple",
+      "Mango",
+      "Strawberry",
+      "Peach",
+      "Cherry",
+      "Kiwi"
+    ]
+  },
+  {
+    "category": "Animals",
+    "answers": [
+      "Panda",
+      "Lion",
+      "Dog",
+      "Elephant",
+      "Zebra",
+      "Kangaroo",
+      "Tiger",
+      "Dolphin",
+      "Cat",
+      "Giraffe"
+    ]
+  },
+  {
+    "category": "Famous Bands",
+    "answers": [
+      "Pink Floyd",
+      "Queen",
+      "Coldplay",
+      "Metallica",
+      "U2",
+      "Nirvana",
+      "Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
+    ]
+  },
+  {
+    "category": "Programming Paradigms",
+    "answers": [
+      "Functional",
+      "Aspect-oriented",
+      "Object-oriented",
+      "Event-driven",
+      "Imperative",
+      "Procedural",
+      "Concurrent",
+      "Logic",
+      "Reactive",
+      "Declarative"
+    ]
+  },
+  {
+    "category": "Elements (Periodic Table) - Common",
+    "answers": [
+      "Helium",
+      "Oxygen",
+      "Calcium",
+      "Hydrogen",
+      "Gold",
+      "Uranium",
+      "Carbon",
+      "Iron",
+      "Nitrogen",
+      "Silver"
+    ]
+  },
+  {
+    "category": "Famous TV Shows",
+    "answers": [
+      "Seinfeld",
+      "Friends",
+      "Sherlock",
+      "Stranger Things",
+      "The Office",
+      "Breaking Bad",
+      "The Crown",
+      "The Simpsons",
+      "Westworld",
+      "Game of Thrones"
+    ]
+  },
+  {
+    "category": "Planets & Space",
+    "answers": [
+      "Sun",
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Pluto",
+      "PlanetsItem1",
+      "PlanetsItem2"
+    ]
+  },
+  {
+    "category": "Computer Programming Languages",
+    "answers": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C",
+      "C++",
+      "Ruby",
+      "Go",
+      "C#",
+      "Rust",
+      "Swift"
+    ]
+  },
+  {
+    "category": "Programming Frameworks/Libraries",
+    "answers": [
+      "Angular",
+      "PyTorch",
+      "React",
+      "TensorFlow",
+      "Laravel",
+      "Vue",
+      "Flask",
+      "Django",
+      "Spring",
+      "Ruby on Rails"
+    ]
+  },
+  {
+    "category": "Popular Sports",
+    "answers": [
+      "Golf",
+      "Cricket",
+      "Volleyball",
+      "Basketball",
+      "Baseball",
+      "Tennis",
+      "Hockey",
+      "Soccer",
+      "Rugby",
+      "Formula 1"
+    ]
+  },
+  {
+    "category": "Computer Programming Languages",
+    "answers": [
+      "JavaScript",
+      "C",
+      "Rust",
+      "Ruby",
+      "C#",
+      "Python",
+      "Go",
+      "Java",
+      "Swift",
+      "C++"
+    ]
+  },
+  {
+    "category": "Fictional Detectives",
+    "answers": [
+      "Sherlock Holmes",
+      "Hercule Poirot",
+      "Miss Marple",
+      "Sam Spade",
+      "Philip Marlowe",
+      "Nancy Drew",
+      "Inspector Clouseau",
+      "Columbo",
+      "Batman",
+      "Jessica Fletcher"
+    ]
+  },
+  {
+    "category": "Famous Scientists",
+    "answers": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Marie Curie",
+      "Nikola Tesla",
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Stephen Hawking",
+      "Rosalind Franklin",
+      "Louis Pasteur",
+      "Michael Faraday"
+    ]
+  },
+  {
+    "category": "Famous Novelists",
+    "answers": [
+      "Jane Austen",
+      "Charles Dickens",
+      "Ernest Hemingway",
+      "Mark Twain",
+      "George Orwell",
+      "J.K. Rowling",
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Agatha Christie",
+      "Stephen King"
+    ]
+  },
+  {
+    "category": "Disney Animated Movies",
+    "answers": [
+      "The Lion King",
+      "Aladdin",
+      "Frozen",
+      "Moana",
+      "Mulan",
+      "Beauty and the Beast",
+      "Cinderella",
+      "Snow White",
+      "Tangled",
+      "Sleeping Beauty"
+    ]
+  },
+  {
+    "category": "Disney Animated Movies",
+    "answers": [
+      "Snow White",
+      "Moana",
+      "Tangled",
+      "Cinderella",
+      "Aladdin",
+      "Frozen",
+      "Sleeping Beauty",
+      "The Lion King",
+      "Mulan",
+      "Beauty and the Beast"
+    ]
+  },
+  {
+    "category": "Languages",
+    "answers": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Chinese",
+      "Japanese",
+      "Arabic",
+      "Russian",
+      "Portuguese",
+      "Hindi"
+    ]
+  },
+  {
+    "category": "Famous Mountains",
+    "answers": [
+      "Mont Blanc",
+      "Aconcagua",
+      "Matterhorn",
+      "Kangchenjunga",
+      "K2",
+      "Everest",
+      "Lhotse",
+      "Makalu",
+      "Denali",
+      "Fuji"
+    ]
+  },
+  {
+    "category": "Elements (Periodic Table) - Common",
+    "answers": [
+      "Iron",
+      "Helium",
+      "Nitrogen",
+      "Oxygen",
+      "Silver",
+      "Carbon",
+      "Uranium",
+      "Calcium",
+      "Hydrogen",
+      "Gold"
+    ]
+  },
+  {
+    "category": "Movie Genres",
+    "answers": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Romance",
+      "Thriller",
+      "Documentary",
+      "Animation",
+      "Musical"
+    ]
+  },
+  {
+    "category": "Programming Frameworks/Libraries",
+    "answers": [
+      "Laravel",
+      "Vue",
+      "Angular",
+      "Ruby on Rails",
+      "React",
+      "Spring",
+      "TensorFlow",
+      "Flask",
+      "PyTorch",
+      "Django"
+    ]
+  }
+]
